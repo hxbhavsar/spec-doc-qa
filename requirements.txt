@@ -1,0 +1,10 @@
+streamlit
+pdf2image
+pytesseract
+pillow
+anthropic
+openai
+google-generativeai
+langchain
+langchain-community
+llama-cpp-python
