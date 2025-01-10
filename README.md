@@ -23,7 +23,7 @@ A Streamlit application that allows users to upload technical specification docu
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/spec-doc-qa.git
+git clone https://github.com/hxbhavsar/spec-doc-qa.git
 cd spec-doc-qa
 ```
 
